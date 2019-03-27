@@ -1,0 +1,16 @@
+{
+  "name": "payment-challenge_bulhoeslucas",
+  "version": "1.0.0",
+  "description": "bulhoeslucas agreed with the challenge of building a Rest API through two applications",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bulhoeslucas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-load": "^1.1.16",
+    "request": "^2.88.0"
+  }
+}
